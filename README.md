@@ -5,8 +5,8 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=SG31-Manna&style=for-the-badge&color=00ffff" alt="Profile Views"/> 
-    <img src="https://img.shields.io/github/followers/SG31-Manna?style=for-the-badge&color=00ffff" alt="Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=SHOBHIT-SG31&style=for-the-badge&color=00ffff" alt="Profile Views"/> 
+    <img src="https://img.shields.io/github/followers/SHOBHIT-SG31?style=for-the-badge&color=00ffff" alt="Followers"/>
     <img src="https://img.shields.io/badge/Status-Learning%20&%20Building-00ffff?style=for-the-badge" alt="Status"/>
     <img src="https://img.shields.io/badge/Experience-Beginner-00ffff?style=for-the-badge" alt="Experience"/>
 </div>
@@ -26,7 +26,7 @@
 ### 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shobhit-gupta-2bb985313)
-- 💼 GitHub: [SG31-Manna](https://github.com/SG31-Manna)
+- 💼 GitHub: [SHOBHIT-SG31](https://github.com/SHOBHIT-SG31)
 
 ### :zap: GitHub Stats 📈
 
@@ -34,36 +34,36 @@
 
 <p align="center">
   <br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SG31-Manna&theme=dracula" width="100%" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOBHIT-SG31&theme=dracula" width="100%" />
 </p>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/SG31-Manna/SG31-Manna"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=SG31-Manna&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shobhit's GitHub Stats" width="495" height="195" />
+      <a href="https://github.com/SHOBHIT-SG31/SHOBHIT-SG31"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=SHOBHIT-SG31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shobhit's GitHub Stats" width="495" height="195" />
       </a>
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=SG31-Manna&theme=vue-dark&hide_border=true&border_radius=4&short_numbers=true&card_width=490&card_height=190&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=SHOBHIT-SG31&theme=vue-dark&hide_border=true&border_radius=4&short_numbers=true&card_width=490&card_height=190&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
 </table>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SG31-Manna&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SHOBHIT-SG31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div> 
 
 <p align="center">
   <table style="width: 1000%; border: none; padding: 0; margin: 0;">
     <tr>
       <td style="width: 300%; padding: 10px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SG31-Manna&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="400%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOBHIT-SG31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="400%">
       </td>
       <td style="width: 300%; padding: 10px; vertical-align: top;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SG31-Manna&theme=dracula&hide_border=true" alt="Language Pie Chart" width="400%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHOBHIT-SG31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="400%">
       </td>
     </tr>
   </table>
@@ -72,7 +72,7 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SG31-Manna&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHOBHIT-SG31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div> 
 ## 🎯 Expertise Areas
 
@@ -164,7 +164,7 @@ Let’s learn and grow together!
 </div>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/SG31-Manna/count.svg" alt="Profile Views"> 
+    <img src="https://profile-counter.glitch.me/SHOBHIT-SG31/count.svg" alt="Profile Views"> 
     <br>
     © 2025 Shobhit Gupta
 </div>
